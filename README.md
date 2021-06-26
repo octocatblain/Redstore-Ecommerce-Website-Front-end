@@ -3,7 +3,7 @@
 >This the official ReadMe File for the Front-End part of this ecommerce website.
 
 ## Description
-'The Redstore Ecommerce Website'is a simple [HTML](https://html.com/) web application for static content that includes a CART and ACCOUNT page. It was created from the basis of [popular ecommerce websites](https://www.creative.co.ke/top-10-e-commerce-platforms-in-kenya/)and everyone is welcome to use it.
+'The Redstore Ecommerce Website' is a simple [HTML](https://html.com/) web application for static content that includes a CART and ACCOUNT page. It was created from the basis of [popular ecommerce websites](https://www.creative.co.ke/top-10-e-commerce-platforms-in-kenya/)and everyone is welcome to use it.
 The main implementation of the ecommerce website strives to be simple and free of unnecessary code.
 
 ## Key Focus Areas in this Ecommerce Website
