@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Home - The Mink Tribe | Store</title>
+  <title>Home | RedStore</title>
   <link rel="stylesheet" href="style.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -14,23 +14,24 @@
 <body>
  <!--header section-->
   <div class="header">
-    <div class="container">
-      <div class="navbar">
-        <div class="logo">
-          <img alt="logo" src="images/logo.png" width="125px">
+      <div class="container">
+        <div class="navbar">
+            <div class="logo">
+            <a href="index.html"><img alt="logo" src="images/logo.png" width="125px"></a>
+            </div>
+            <nav>
+            <ul id="MenuItems">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="product.html">Products</a></li>
+                <li><a href="">About</a></li>
+                <li><a href="">Contact</a></li>
+                <li><a href="account.html">Account</a></li>
+            </ul>
+            </nav>
+            <a href="cart.html"><img src="images/cart.png" width="30px" height="30px"></a>  <!--Cart image-->
+            <img src="images/menu.png" class="menu-icon" onclick="menutoggle()">  <!--Menu image-->
         </div>
-        <nav>
-          <ul id="MenuItems">
-            <li><a href="">Home</a></li>
-            <li><a href="">Products</a></li>
-            <li><a href="">About</a></li>
-            <li><a href="">Contact</a></li>
-            <li><a href="">Account</a></li>
-          </ul>
-        </nav>
-        <img src="images/cart.png" width="30px" height="30px">  <!--Cart image-->
-        <img src="images/menu.png" class="menu-icon" onclick="menutoggle()">  <!--Menu image-->
-      </div>
+    
       <div class="row">
         <div class="col-2">
           <h1> Give your workout</br>A New Style</h1>
@@ -43,7 +44,7 @@
       </div>
     </div>
   </div>
-
+ </div>
   <!--featured categories-->
   <div class="categories">
     <div class="small-container">
@@ -65,8 +66,8 @@
       <h2 class="title">Featured Products</h2>
       <div class="row">
         <div class="col-4">
-          <img src="images/product-1.jpg" alt="product-1">
-          <h4>Printed Red T-shirt</h4>
+          <a href="productsdetails.html"><img src="images/product-1.jpg" alt="product-1"></a>
+          <a href="productsdetails.html"><h4>Printed Red T-shirt</h4></a>
           <div class="rating">
             <i class="fa fa-star"></i>
             <i class="fa fa-star"></i>
