@@ -1,6 +1,6 @@
-# RedsStore E-commerce Website
+# RedStore E-commerce Website
 
->This the official ReadMe File for the Front-End part of this ecommerce website.
+>This the official ReadMe File for the Front-End part of this ecommerce website. [Website Link](https://redstore-4abf8.web.app/index.html)
 
 ## Description
 `The Redstore Ecommerce Website` is a simple [HTML](https://html.com/) web application for static content that includes a CART and ACCOUNT page. It was created from the basis of [popular ecommerce websites](https://www.creative.co.ke/top-10-e-commerce-platforms-in-kenya/)and everyone is welcome to use it.
