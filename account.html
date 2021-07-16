@@ -146,6 +146,29 @@
             Indicator.style.transform = "translateX(45px)";
         }
 </script>
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/8.7.1/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/8.7.1/firebase-analytics.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  var firebaseConfig = {
+    apiKey: "AIzaSyBX5RuISf142-7vydPAXrwyFEVFvWzF968",
+    authDomain: "redstore-4abf8.firebaseapp.com",
+    projectId: "redstore-4abf8",
+    storageBucket: "redstore-4abf8.appspot.com",
+    messagingSenderId: "580540135505",
+    appId: "1:580540135505:web:e90dc5dfbd257b74b9e070",
+    measurementId: "G-3NV9B43XD7"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>
   
 </body>
 </html>
