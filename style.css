@@ -178,6 +178,17 @@ small{
   color: #555;
   font-size: 16px;
 }
+section {
+  width: 100%;
+  max-width: 1000px;
+  height: auto;
+  margin: 25px auto;
+}
+
+section > div.right {
+  width: 420px;
+  float: left;
+}
 
 /*brands*/
 .brands{
