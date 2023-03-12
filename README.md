@@ -42,3 +42,13 @@ This module requires the following system requirements:
 ## Licenses
 [MIT](LICENSE)
 [GNU](LICENSE)
+
+## Authors
+
+- [@octocatblain](https://www.github.com/octocatblain)
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at blainmasaku2@gmail.com
+
